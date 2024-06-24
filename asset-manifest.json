@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/financial-indicators/static/css/main.f855e6bc.css",
+    "main.js": "/financial-indicators/static/js/main.7007d631.js",
+    "static/js/453.272ee456.chunk.js": "/financial-indicators/static/js/453.272ee456.chunk.js",
+    "index.html": "/financial-indicators/index.html",
+    "main.f855e6bc.css.map": "/financial-indicators/static/css/main.f855e6bc.css.map",
+    "main.7007d631.js.map": "/financial-indicators/static/js/main.7007d631.js.map",
+    "453.272ee456.chunk.js.map": "/financial-indicators/static/js/453.272ee456.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7007d631.js"
+  ]
+}
